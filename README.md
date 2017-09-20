@@ -1,12 +1,12 @@
-# _{Leap Year Detector}_
+# _Leap Year Detector_
 
-#### _{Arrays and Looping practice in JS}, {09.20.2017}_
+#### _Arrays and Looping practice in JS, 09.20.2017_
 
-#### By _**{Marcus Parmentier}**_
+#### By _**Marcus Parmentier**_
 
 ## Description
 
-_{This webpage takes any year entered by the user and tells them if that year is a leap year or not. Also added bootstrap and jQuery. }_
+_This webpage takes any year entered by the user and tells them if that year is a leap year or not. Also added bootstrap and jQuery._
 
 ## Setup/Installation Requirements
 
@@ -15,11 +15,11 @@ _{This webpage takes any year entered by the user and tells them if that year is
 
 ## Known Bugs
 
-_{N/A}_
+_N/A_
 
 ## Support and contact details
 
-_{If there are any issues, questions, or suggestions please email me at marcusjparmentier@gmail.com.}_
+_If there are any issues, questions, or suggestions please email me at marcusjparmentier@gmail.com._
 
 ## Technologies Used
 
@@ -31,5 +31,5 @@ _{If there are any issues, questions, or suggestions please email me at marcusjp
 
 ### Legal
 
-Copyright (c) 2016 **_{Marcus Parmentier}_**
-**_{This software is licensed under the MIT license.}
+Copyright (c) 2016 **_Marcus Parmentier_**
+**_This software is licensed under the MIT license._**
